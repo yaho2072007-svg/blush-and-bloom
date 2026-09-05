@@ -201,16 +201,14 @@ h2{
 }
 
 
-/* FOOTER */
+/* MOBILE */
 
 footer{
     background:#7B2946;
     color:white;
     text-align:center;
     padding:25px;
-}
-/* MOBILE */
-
+/* FOOTER */
 @media(max-width:700px){
 
     .hero-section{
